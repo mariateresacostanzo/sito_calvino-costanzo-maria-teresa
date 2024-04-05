@@ -1,0 +1,119 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: white;
+    color: #553D3D;
+    margin: 0;
+}
+
+h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+.titolo {
+    margin: auto;
+    text-align: center;
+    color: #553D3D;
+    font-family: Inter;
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.prima {
+    color: #553D3D;
+    margin: auto;
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 400px;
+    display: grid;
+    gap: 50px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    max-width: 100%;
+    margin-top: 50px; 
+    }
+
+
+.seconda {
+    width: 1336px;
+height: 270px;
+flex-shrink: 0;
+color: #553D3D;
+text-align: center;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal; 
+margin: auto;
+margin-bottom: 180px}
+
+.immagineviola {
+    width: 868px;
+height: 613px;
+flex-shrink: 0;
+background: url(<path-to-image>)   / cover no-repeat;
+;
+}
+
+.terza {
+    width: 1333px;
+    height: 613px;
+    flex-shrink: 0;
+    color: #553D3D;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: auto;
+}
+
+.immaginejacksmith {
+width: 912px;
+height: 618px;
+flex-shrink: 0;
+display: flex;
+justify-content: center;
+align-items: center;width: 100vw;
+margin-bottom: 300px
+}
+
+footer { 
+display: inline-block;
+align-items: center;
+flex-direction: column;    
+padding: 20px;
+display: flex;
+text-align: center; 
+color: #000;
+font-family: Inter;
+font-size: 32px;
+font-weight: 400;
+margin-bottom: 300px
+
+
+
+}
+
+.ultimariga {
+    margin-top: 500px;
+    color: #A79696;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 400;
+    width: 1044px;
+    height: 79px;
+    text-align: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}
+    
